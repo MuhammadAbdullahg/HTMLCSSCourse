@@ -1,0 +1,31 @@
+.showcase {
+  height: 60vh;
+  background: url(../img/photo.jpg) no-repeat center/cover;
+  margin-top: 2.9rem;
+}
+.showcase .info {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 1rem;
+  border-radius: 2rem;
+  color: #fff;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 5px;
+}
+.cont {
+  gap: 1rem;
+}
+.content {
+  height: 50vh;
+  background-color: #5f5a5a;
+  color: #fff;
+}
+.content .img {
+  height: 250px;
+  width: 200px;
+  background: url(../img/aryan-nikhil-fOHOcTDmvYU-unsplash.jpg) no-repeat
+    center/cover;
+}

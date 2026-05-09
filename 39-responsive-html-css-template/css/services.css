@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+.lg-box {
+  text-align: center;
+  width: 70vw;
+  margin: auto;
+  background-color: #666;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+.lg-box .light {
+  background-color: rgb(12, 209, 12);
+}
+.lg-box .box-2 {
+  padding: 1rem;
+  line-height: 1.5;
+}

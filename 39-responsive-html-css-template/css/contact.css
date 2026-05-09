@@ -1,0 +1,24 @@
+.contact {
+  text-align: center;
+}
+.form {
+  max-height: max-content;
+  width: 70vw;
+  background-color: #666;
+  margin: auto;
+  padding: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+.form button {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #fff;
+  border: none;
+}
+.form input,
+textarea {
+  width: 100%;
+  padding: .7rem;
+}
